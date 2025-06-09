@@ -1,4 +1,5 @@
 - 👋 Hi there
+- I'm currently a Cybersecurity major and computer science minor!
 <!---
 barno65/barno65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
