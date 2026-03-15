@@ -18,6 +18,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barno65)](https://github.com/barno65/github-readme-stats)
