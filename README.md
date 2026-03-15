@@ -16,3 +16,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Kali" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
 
 
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barno65)](https://github.com/barno65/github-readme-stats)
